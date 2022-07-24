@@ -41,7 +41,7 @@ You can ping me on these social networks:
 ### Tools
 
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![PyCharm](https://img.shields.io/badge/Pycharm-143?style=flat-square&logo=Pycharm&logoColor=black&color=black&labelColor=green)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat-square&logo=android-studio&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-026AA7?style=flat-square&logo=Trello&logoColor=white)

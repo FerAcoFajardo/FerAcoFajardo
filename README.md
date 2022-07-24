@@ -13,7 +13,7 @@ You can ping me on these social networks:
 ## Technologies
 
 ### DevOps
-
+ 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat-square)
@@ -41,7 +41,7 @@ You can ping me on these social networks:
 ### Tools
 
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
-![PyCharm](https://img.shields.io/badge/Pycharm-143?style=flat-square&logo=Pycharm&logoColor=black&color=black&labelColor=green)
+![PyCharm](https://img.shields.io/badge/Pycharm-709600?style=flat-square&logo=Pycharm&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat-square&logo=android-studio&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-026AA7?style=flat-square&logo=Trello&logoColor=white)

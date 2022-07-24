@@ -63,6 +63,6 @@ You can ping me on these social networks:
 ##### (Left are the most used)
 
 ---
-![Stats](https://github-readme-stats.vercel.app/api?username=feracofajardo&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FerAcoFajardo&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
 </p>

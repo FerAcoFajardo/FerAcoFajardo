@@ -27,15 +27,15 @@ You can ping me on these social networks:
 ![SQLite](https://img.shields.io/badge/SQLite-07405e?style=flat-square&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
 
-### Langages
+### Languages
 
 ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED2025?style=flat-square&logo=ORACLE&logoColor=white&color=ED2025)
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?style=flat-square&logo=javascript&logoColor=black&color=F7DF1C)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo&logo=Arduino&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)  
 
 ### Tools
@@ -56,7 +56,7 @@ You can ping me on these social networks:
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat-square&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![Jinja](https://img.shields.io/badge/jinja-white.svg?style=flat-square&logo=jinja&logoColor=black)
+![Jinja](https://img.shields.io/badge/Jinja-white.svg?style=flat-square&logo=jinja&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=flat-square&logo=codeIgniter&logoColor=white)
 

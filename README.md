@@ -7,7 +7,7 @@ I'm currently a software engineer student at [Instituto Tecnológico de Sonora](
 
 You can ping me on these social networks:  
 [![](https://img.shields.io/badge/-Molag🦖%231095-7289da?style=flat-square&logo=Discord&logoColor=white)](https://discordapp.com/users/392560723580026882)
-[![LinkedIn](https://img.shields.io/badge/-Fernando_Acosta-blue?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/Fernando-Acosta-Faja/)
+[![LinkedIn](https://img.shields.io/badge/-Fernando_Acosta-blue?style=flat-square&logo=Linkedin&logoColor=white)]()
 [![](https://img.shields.io/badge/-feraco2908@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:feraco2908@gmail.com)
 
 ## Technologies
